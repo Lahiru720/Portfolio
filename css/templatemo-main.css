@@ -181,6 +181,7 @@ nav em {
 	font-style: normal;
 	margin-left: 5px;
 	font-size: 14px;
+	
 }
 
 nav ul li i {
@@ -225,7 +226,7 @@ nav ul li {
 	margin: 25px 0px;
 }
 nav a, nav a:visited, nav a:active {
-  color: #fff;
+  color: rgb(228, 226, 226);
 }
 nav a {
 	text-decoration: none!important;
@@ -236,10 +237,12 @@ nav a {
   	padding: 20px 30px;
   	position: relative;
   	z-index: 0;
+	  width: 100px;
 }
 nav a.active {
-  background-color: #fff;
+  background-color: #00acee;
   color: #232323;
+  border-radius: 20px;
 }
 nav a::before {
   content: "";
@@ -255,11 +258,15 @@ nav a:hover {
 	text-decoration: none;
   -webkit-animation: fillColour 0.7s forwards ease-in-out;
           animation: fillColour 0.7s forwards ease-in-out;
+		  border-radius: 20px;
+		 
 }
 nav a:hover::before {
   -webkit-animation: fill 0.7s forwards ease-in-out;
           animation: fill 0.7s forwards ease-in-out;
   opacity: 1;
+  border-radius: 20px;
+  background: #00acee;
 }
 
 .slides {
@@ -333,8 +340,8 @@ nav a:hover::before {
 	border-top-left-radius: 50px;
 	border-bottom-left-radius: 50px;
 	height: 95vh;
-	
 
+	
 }
 
 .first-content .author-image img {
