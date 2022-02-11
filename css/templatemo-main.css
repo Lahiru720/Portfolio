@@ -17,7 +17,7 @@ http://www.templatemo.com/tm-512-moonlight
 }
 
 .seq-preloader {
-  background: white;
+  background: rgb(0, 0, 0);
   visibility: visible;
   opacity: 1;
   position: absolute;
@@ -33,7 +33,7 @@ http://www.templatemo.com/tm-512-moonlight
 .seq-preloader.seq-preloaded {
   opacity: 0;
   visibility: hidden;
-  transition: visibility 0s .5s, opacity .5s;
+  transition: visibility 0s 1s, opacity .5s;
 }
 
 .seq-preload-indicator {
@@ -266,7 +266,7 @@ nav a:hover::before {
           animation: fill 0.7s forwards ease-in-out;
   opacity: 1;
   border-radius: 20px;
-  background: #00acee;
+  background: transparent;
 }
 
 .slides {
@@ -276,6 +276,7 @@ nav a:hover::before {
   transition: -webkit-transform 0.8s ease;
   transition: transform 0.8s ease;
   transition: transform 0.8s ease, -webkit-transform 0.8s ease;
+  
 }
 .slides .slide {
   height: 100vh;
