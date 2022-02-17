@@ -3,13 +3,16 @@
 
 The Repository
 
-This repository is where i develop the Portfolio as a inidividual project. this project develop as a personal website .This source code is avaliable to everyone under the MIT License
+This repository is where i develop the Portfolio as a inidividual project. this project develop as a personal website .This source code IS NOT avaliable to anyone under the MIT License
 
 
 ## Screenshots
 
-![Screenshot from 2022-02-11 08-12-04](https://user-images.githubusercontent.com/66423576/153530174-0642c9c0-d74f-4ee7-957b-ded064378659.png)(https://user-images.githubusercontent.com/66423576/148690748-05402d1e-c004-4076-af16-746eb3c29177.png)
+![vb](https://user-images.githubusercontent.com/66423576/154403708-4a61ddbf-833c-42bf-a9c4-10245657940f.png)
 
+
+##Now on air
+![click here](lahiru720.github.io/portfolio/)
 
 
 ## Feedback
@@ -33,6 +36,6 @@ See also my linked in profile.
 ## License
 Copyright © Lahiru Rajapakshe. All rights reserved.
 
-Licensed under the [MIT](https://github.com/Lahiru720/Advanced-Text-Editor/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/Lahiru720/Portfolio/blob/master/LICENSE) license.
 
 
