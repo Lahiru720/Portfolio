@@ -22,8 +22,6 @@ This repository is where i develop the Portfolio as a inidividual project. this 
     File an issue
     Follow @Lahiru720 and let me know what you think!
 
-See also my linked in profile.
-
 
 
 ## Related projects
